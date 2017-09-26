@@ -7,3 +7,4 @@
 ### See also
 
 - https://github.com/pryazhnikov/moscow-marathon-stats
+- https://github.com/lovasoa/chronorace-moscow
