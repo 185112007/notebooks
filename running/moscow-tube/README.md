@@ -14,3 +14,4 @@
 [#RaceTheTube](https://twitter.com/search?q=RaceTheTube)
 
 * [Full interview with Race The Tube creator, James Heptonstall](https://www.youtube.com/watch?v=cRzUfZZOUuI)
+* Moscow #RaceTheTube calculations https://bronevichok.ru/blog/2015/11/19/racethetube.html
