@@ -4,7 +4,6 @@
 
 - [Mailing lists](http://marc.info/)
 - [Source code](https://github.com/openbsd)
-- [Issues](https://bronevichok.ru/cgi-bin/b.cgi/rptview?rn=1)
 - [OpenBSD developers map](https://cvsweb.openbsd.org/cgi-bin/cvsweb/ports/geo/openbsd-developers/files/OpenBSD?rev=1.152&content-type=text/x-cvsweb-markup), [Jupyter-gmaps](https://jupyter-gmaps.readthedocs.io/en/latest/)
 - [dmesg](http://dmesgd.nycbug.org/)
 - IRC: [#openbsd.fr](http://www.pingx.net/freenode/openbsd.fr), [#openbsd](http://www.pingx.net/freenode/openbsd)
@@ -23,3 +22,4 @@
 * [The BSD Family](http://cs.jhu.edu/~razvanm/fs-expedition/bsd.html)
 * [Security bug lifetime](https://outflux.net/blog/archives/2016/10/18/security-bug-lifetime/)
 * [The *BSDstats Project](http://bsdstats.org/)
+* [Kernel commits with "Fixes" Tag](https://smackerelofopinion.blogspot.com/2019/01/kernel-commits-with-fixes-tag-revisited.html)
