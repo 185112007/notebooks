@@ -866,3 +866,6 @@ Release,Hardware arch,Patch,Comment,Category
 6.2,amd64,https://ftp.openbsd.org/pub/OpenBSD/patches/6.2/common/001_tcb_invalid.patch.sig,,Reliability
 6.2,All,https://ftp.openbsd.org/pub/OpenBSD/patches/6.2/common/002_fktrace.patch.sig,,Security
 6.2,All,https://ftp.openbsd.org/pub/OpenBSD/patches/6.2/common/003_mpls.patch.sig,,Reliability
+6.3,All,https://ftp.openbsd.org/pub/OpenBSD/patches/6.6/common/001_bpf.patch.sig,,Reliability
+6.3,All,https://ftp.openbsd.org/pub/OpenBSD/patches/6.6/common/002_ber.patch.sig,,Reliability
+6.3,All,https://ftp.openbsd.org/pub/OpenBSD/patches/6.6/common/003_bgpd.patch.sig,,Reliability
