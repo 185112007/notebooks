@@ -24,3 +24,4 @@
 * [The *BSDstats Project](http://bsdstats.org/)
 * [Kernel commits with "Fixes" Tag](https://smackerelofopinion.blogspot.com/2019/01/kernel-commits-with-fixes-tag-revisited.html)
 * https://github.com/cncf/devstats
+* https://github.com/danieljakots/obsd-commits-stats
